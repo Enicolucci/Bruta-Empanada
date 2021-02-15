@@ -270,5 +270,13 @@
     "yargs": "^13.3.2",
     "yallist": "^4.0.0"
   },
-  "description": "Pagina web para compania de servicios de catering (BRUTA EMPANADA), fiestas, reuniones,eventos varios"
+  "description": "Pagina web para compania de servicios de catering (BRUTA EMPANADA), fiestas, reuniones,eventos varios",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enicolucci/Bruta-Empanada.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Enicolucci/Bruta-Empanada/issues"
+  },
+  "homepage": "https://github.com/Enicolucci/Bruta-Empanada#readme"
 }

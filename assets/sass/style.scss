@@ -1,6 +1,6 @@
 /* variables */
 
-$color-rojo:#FF004D;
+$color-rojo:#0E5C01;
 $color-negro:#000000;
 $color-blanco:#FFFFFF;
 $color-azul:#2C73D3;
@@ -335,18 +335,20 @@ html,body{
 
 #contacto-bg{
    background: url(../img/contact-bg.jpg);
-   height:25rem;
+   height:30rem;
 }
 
 #contact-section{
-  padding-top: 400px;
+  padding-top: 55px;
 }
 
  /*productos*/
 
 
 #menu-productos{
-  margin:200px;
+  left-margin: 200px;
+  padding-left: 40px;
+  padding-right:40px;
   text-align: center;
 
 
@@ -407,7 +409,7 @@ html,body{
 
 .single-menu{
    display:flex;
-  flex-direction:row;
+  flex-direction:column;
   align-items:center;
   flex-basis:580px;
   margin-bottom:40px;
